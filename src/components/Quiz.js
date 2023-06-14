@@ -3,8 +3,6 @@ import React from 'react'
 function Quiz() {
 
   console.log("First commit ")
-
-  console.log("Second commit ")
   return (
     <div className='container border border-danger'>
        <div className="container">
